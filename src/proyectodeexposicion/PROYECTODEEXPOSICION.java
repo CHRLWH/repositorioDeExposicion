@@ -16,6 +16,7 @@ public class PROYECTODEEXPOSICION {
     public static void main(String[] args) {
         
            System.out.println("HOLA QUE TAL");
+            System.out.println("BUENAS TARDES");
         // TODO code application logic here
     }
     
